@@ -1,4 +1,3 @@
-# Deep-Learning-Projects
 # Sentiment Analysis with LSTM on IMDB Movie Reviews
 
 Welcome to the Sentiment Analysis project using Long Short-Term Memory (LSTM) networks! This repository contains the code and resources for performing sentiment analysis on IMDB movie reviews, showcasing the power of LSTM models in natural language processing (NLP).
